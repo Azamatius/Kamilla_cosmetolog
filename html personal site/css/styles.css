@@ -1,0 +1,38 @@
+ body, html {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding-top:40px;
+  font: Arial 14px;
+  background-color: #fcf2f9;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+Hr {
+  color: #ffb5e6;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: dotted;
+  width: 4%;
+  margin:100px;
+  position:relative;
+  left:40%;
+}
+
+h1 {  color: #ee88f7;
+  font-family: 'Cormorant Infant', serif;
+
+}
+h2 {font-family: 'Cormorant Infant', serif;
+color: #e06388;}
+
+h3 {font-family: 'Sacramento', cursive;
+  color:#f5a6a6;}
+
+
+/********************************class selector********************************/
+.circular {border-radius: 100%;}
+.beauty-image {width: 200px;
+height:200px;}
